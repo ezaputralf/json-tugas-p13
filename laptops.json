@@ -1,0 +1,84 @@
+{
+  "laptops": [
+    {
+      "brand": "Dell",
+      "model": "XPS 15",
+      "processor": "Intel Core i7",
+      "ram": 16,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/dell_xps_15.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "Envy 13",
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": 256,
+      "imageUrl": "https://example.com/images/hp_envy_13.jpg"
+    },
+    {
+      "brand": "Apple",
+      "model": "MacBook Pro",
+      "processor": "Apple M1",
+      "ram": 16,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/macbook_pro.jpg"
+    },
+    {
+      "brand": "Lenovo",
+      "model": "ThinkPad X1 Carbon",
+      "processor": "Intel Core i7",
+      "ram": 16,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/thinkpad_x1_carbon.jpg"
+    },
+    {
+      "brand": "Asus",
+      "model": "ZenBook 14",
+      "processor": "AMD Ryzen 7",
+      "ram": 16,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/asus_zenbook_14.jpg"
+    },
+    {
+      "brand": "Acer",
+      "model": "Swift 3",
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/acer_swift_3.jpg"
+    },
+    {
+      "brand": "Microsoft",
+      "model": "Surface Laptop 4",
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": 256,
+      "imageUrl": "https://example.com/images/surface_laptop_4.jpg"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Book Pro",
+      "processor": "Intel Core i7",
+      "ram": 16,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/galaxy_book_pro.jpg"
+    },
+    {
+      "brand": "Google",
+      "model": "Pixelbook Go",
+      "processor": "Intel Core i5",
+      "ram": 8,
+      "storage": 128,
+      "imageUrl": "https://example.com/images/pixelbook_go.jpg"
+    },
+    {
+      "brand": "Huawei",
+      "model": "MateBook X Pro",
+      "processor": "Intel Core i7",
+      "ram": 16,
+      "storage": 512,
+      "imageUrl": "https://example.com/images/matebook_x_pro.jpg"
+    }
+  ]
+}
