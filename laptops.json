@@ -1,0 +1,84 @@
+{
+  "laptops": [
+    {
+      "brand": "HP",
+      "model": "ENVY 17t",
+      "processor": "Intel Core i5 dan i7",
+      "ram": "Hingga 16GB",
+      "storage": "Hingga 512GB PCIe NVMe SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_ENVY_17t_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "Pavilion x360",
+      "processor": "Intel Celeron dan Core i5 dan i7",
+      "ram": "Hingga 16GB DDR4 RAM",
+      "storage": "Hingga 512GB PCIe NVMe M.2 SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_Pavilion_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "EliteBook",
+      "processor": "Intel Core i5 dan i7 Generasi ke-7 dan 8",
+      "ram": "Hingga 32GB",
+      "storage": "Hingga 4TB NVMe SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_EliteBook_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "ZBook 15 G5",
+      "processor": "Intel Core i5 dan i7",
+      "ram": "SDRAM 16 GB",
+      "storage": "512GB SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_ZBook_15_G5_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "ENVY x360",
+      "processor": "Intel Core i7",
+      "ram": "Hingga 16GB DDR4",
+      "storage": "Hingga 1TB SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_ENVY_x360_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "Spectre x360",
+      "processor": "Intel Core i7",
+      "ram": "Hingga 16GB DDR4",
+      "storage": "Hingga 1TB SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_Spectre_x360_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "ProBook",
+      "processor": "Intel Celeron dan Core i3, i5, dan i7",
+      "ram": "Hingga 16GB",
+      "storage": "256GB SSD NVMe",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_ProBook_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "OMEN",
+      "processor": "Intel Core i5 dan i7 Generasi ke-9",
+      "ram": "Hingga 32GB DDR4",
+      "storage": "Hingga 1TB SSD NVMe",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_OMEN_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "Notebook 15",
+      "processor": "Intel Core i7",
+      "ram": "Hingga 16GB",
+      "storage": "128GB SSD NVMe",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_Notebook_15_Laptop.jpg"
+    },
+    {
+      "brand": "HP",
+      "model": "Spectre Folio",
+      "processor": "Intel Core i5 dan i7",
+      "ram": "Hingga 16GB",
+      "storage": "Hingga 256GB SSD",
+      "imageUrl": "https://id-media.apjonlinecdn.com/wysiwyg/blog/best-laptops-for-data-science/HP_Spectre_Folio_Laptop.jpg"
+    }
+  ]
+}
