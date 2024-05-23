@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Rumah Sakit Umum",
+        "address": "Jl. Merdeka No. 1",
+        "latitude": -6.200000,
+        "longitude": 106.816666
+    },
+    {
+        "name": "Apotek Sehat",
+        "address": "Jl. Kesehatan No. 10",
+        "latitude": -6.210000,
+        "longitude": 106.820000
+    },
+    {
+        "name": "Puskesmas Harmoni",
+        "address": "Jl. Harmoni No. 5",
+        "latitude": -6.220000,
+        "longitude": 106.830000
+    }
+]
